@@ -1,0 +1,5 @@
+p {
+  width: 150px;
+  word-spacng: 20px;
+  text-align: justify;
+}

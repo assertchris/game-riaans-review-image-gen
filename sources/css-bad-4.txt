@@ -1,0 +1,6 @@
+p {
+  line-height: 1.2;
+}
+dv {
+  line-height: 200%;
+}
